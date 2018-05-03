@@ -1,4 +1,4 @@
-    \\  For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of <personal data> to <processors> established in third countries which do not ensure an adequate level of data protection the <data exporter> and the <data importer> have (each a ""party""; together the ""parties"") have agreed on the following Contractual Clauses (the ""Clauses"") in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the <data exporter> to the <data importer> of the <personal data> specified in {Appendix 1}.
+    \\  For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of <personal data> to <processors> established in third countries which do not ensure an adequate level of data protection the <data exporter> and the <data importer> have (each a ""party""; together the ""parties"") have agreed on the following Contractual Clauses (the ""Clauses"") in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the <data exporter> to the <data importer> of the <personal data> specified in {Processing specification}.
 
         # Clause 1
         \Definitions\  For the purposes of the <Clauses>:
@@ -186,7 +186,7 @@
 
     \\
 
-        \Appendix 1\
+        \Processing specification\
 
             \Data exporter\  The <data exporter> is (please specify briefly your activities relevant to the transfer): [description of exporter activities]
 
