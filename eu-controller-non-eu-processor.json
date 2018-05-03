@@ -1,0 +1,23 @@
+  {
+    "term": "Data Exporter",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "date",
+      "phone",
+      "email",
+      "address"
+    ]
+  },
+  {
+    "samePage": true,
+    "term": "Data Importer",
+    "information": [
+      "date",
+      "phone",
+      "email",
+      "address"
+    ]
+  }
+]
