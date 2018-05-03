@@ -49,7 +49,7 @@
             \Lawful processing by data exporter\  that it has instructed and throughout the duration of the personal data-processing services will instruct the data importer to process the personal data transferred only on the data exporter's behalf and in accordance with the applicable data protection law and the <Clauses>;
 
             # (c)
-            \Security measures of data exporter\  that the data importer will provide sufficient guarantees in respect of the technical and organisational security measures specified in {Appendix 2} to this contract;
+            \Security measures of data exporter\  that the data importer will provide sufficient guarantees in respect of the technical and organisational security measures specified in {Security measures} to this contract;
 
             # (d)
             \Appropriateness of data exporter security measures\  that after assessment of the requirements of the applicable data protection law, the security measures are appropriate to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing, and that these measures ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected having regard to the state of the art and the cost of their implementation;
@@ -64,7 +64,7 @@
             \Forward notifications\  to forward any notification received from the data importer or any sub-processor pursuant to {Data importer warranty} and {Inform about legislation} to the data protection supervisory authority if the data exporter decides to continue the transfer or to lift the suspension;
 
             # (h)
-            \Data exporter to make Clauses available\  to make available to the data subjects upon request a copy of the <Clauses>, with the exception of {Appendix 2}, and a summary description of the security measures, as well as a copy of any contract for sub-processing services which has to be made in accordance with the <Clauses>, unless the <Clauses> or the contract contain commercial information, in which case it may remove such commercial information;
+            \Data exporter to make Clauses available\  to make available to the data subjects upon request a copy of the <Clauses>, with the exception of {Security measures}, and a summary description of the security measures, as well as a copy of any contract for sub-processing services which has to be made in accordance with the <Clauses>, unless the <Clauses> or the contract contain commercial information, in which case it may remove such commercial information;
 
             # (i)
             \Lawful data exporter sub-processing\  that, in the event of sub-processing, the processing activity is carried out in accordance with {Sub-processing} by a sub-processor providing at least the same level of protection for the personal data and the rights of data subject as the data importer under the <Clauses>; and
@@ -82,7 +82,7 @@
             \Data importer warranty\  that it has no reason to believe that the legislation applicable to it prevents it from fulfilling the instructions received from the data exporter and its obligations under the contract and that in the event of a change in this legislation which is likely to have a substantial adverse effect on the warranties and obligations provided by the <Clauses>, it will promptly notify the change to the data exporter as soon as it is aware, in which case the data exporter is entitled to suspend the transfer of data and/or terminate the contract;
 
             # (c)
-            \Data importer security measures\  that it has implemented the technical and organisational security measures specified in {Appendix 2} before processing the personal data transferred;
+            \Data importer security measures\  that it has implemented the technical and organisational security measures specified in {Security measures} before processing the personal data transferred;
 
             # (d)
             \Data importer notifications\  that it will promptly notify the data exporter about:
@@ -103,7 +103,7 @@
             \Submit to audit\  at the request of the data exporter to submit its data-processing facilities for audit of the processing activities covered by the <Clauses> which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
 
             # (g)
-            \Data importer to make Clauses available\  to make available to the data subject upon request a copy of the <Clauses>, or any existing contract for sub-processing, unless the <Clauses> or contract contain commercial information, in which case it may remove such commercial information, with the exception of {Appendix 2} which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
+            \Data importer to make Clauses available\  to make available to the data subject upon request a copy of the <Clauses>, or any existing contract for sub-processing, unless the <Clauses> or contract contain commercial information, in which case it may remove such commercial information, with the exception of {Security measures} which shall be replaced by a summary description of the security measures in those cases where the data subject is unable to obtain a copy from the data exporter;
 
             # (h)
             \Prior consent for sub-processing\  that, in the event of sub-processing, it has previously informed the data exporter and obtained its prior written consent;
@@ -200,4 +200,4 @@
 
             \Processing operations\  The personal data transferred will be subject to the following basic processing activities (please specify):  [description of processing activities]
 
-        \Appendix 2\  Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached): [description of security measures]
+        \Security measures\  Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached): [description of security measures]
